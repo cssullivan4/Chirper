@@ -8,6 +8,23 @@
 * In this lab, you will be writing MySQL stored procedures and API endpoints in Express to make our app fully CRUD-worthy
 * You can use MySQL Workbench to complete this lab (in fact I recommend it)
 
+## Example 
+![Alt text](/chirp-1.png?raw=true "Example of Chirper")
+
+![Alt text](/chirp-2.png?raw=true "Example of Chirper")
+
+![Alt text](/chirp-3.png?raw=true "Example of Chirper")
+
+![Alt text](/chirp-4.png?raw=true "Example of Chirper")
+
+![Alt text](/chirp-5.png?raw=true "Example of Chirper")
+
+![Alt text](/chirp-6.png?raw=true "Example of Chirper")
+
+![Alt text](/chirp-7.png?raw=true "Example of Chirper")
+
+![Alt text](/chirp-8.png?raw=true "Example of Chirper")
+
 ## Getting Started
 * Make sure you have a .gitignore file in the root of this repository to ignore node_modules
 * Copy your package.json, client, and server folders over to this project from lab 14
